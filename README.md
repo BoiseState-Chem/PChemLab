@@ -31,6 +31,10 @@ PChemLab is a collection of Colab/Jupyter notebooks designed for the analysis an
 - **Vibrational-Rotational Spectroscopy**
   - `RoVib_ModelingData.ipynb`:Contains data modeling for vibrational-rotational spectroscopy experiments.
   - `RoVib_Worksheet.ipynb`: Worksheet for vibrational-rotational spectroscopy experiments.
+ 
+- **Transient Absorption**
+  - `TA_ModelingData.ipynb`: Contains data modeling for transient absorption spectroscopy experiments.
+  - `TA_Worksheet.ipynb`: Worksheet for transient absorption spectroscopy experiments.
 
 ## Installation
 To run these notebooks, it is recommended to use Google Colab. Alternatively, you need to have Jupyter installed along with the required Python libraries. 
